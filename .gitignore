@@ -1,0 +1,34 @@
+# Build
+build/
+out/
+cmake-build-*/
+.vs/
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+
+# Binaries
+*.exe
+*.dll
+*.lib
+*.pdb
+*.ilk
+*.obj
+*.exp
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+*~
+Thumbs.db
+Desktop.ini
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+compile_commands.json
